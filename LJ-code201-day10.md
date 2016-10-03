@@ -1,3 +1,5 @@
+#Learning Journal Day 10
+
 #Progress
 
 After finishing the grid things really started to pick up and I feel more confident in
